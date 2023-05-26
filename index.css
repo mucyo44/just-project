@@ -36,6 +36,9 @@ button{
     font-family:monospace;
     align-items: center;
 }
+button>a{
+    color:white;
+}
 p,h1,h3{
     text-align: center;
   
