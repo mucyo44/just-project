@@ -1,0 +1,79 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.container{
+    margin-left:35%;
+    margin-top:80px;
+  
+}
+h1{
+    margin-bottom: 30px;
+}
+.gender>.male{
+    margin-left: 13.6%;
+}
+.check>.html{
+    margin-left:9.2%;
+}
+input{
+    margin-bottom:10px;
+}
+button{
+    width:200px;
+    height: 30px;
+    margin-top: 10px;
+    background-color: blue;
+    color:white;
+    border:none;
+    margin-left:20%;
+    
+
+}
+select{
+    width:200px;
+    height: 30px;
+    margin-left: 13.2%;
+    border:1px solid black;
+
+}
+.email,.password,.pass,.name,.number,.user{
+    width: 200px;
+    height:30px;
+
+}
+.password{
+    margin-left:5.6%;
+    border:1px solid black;
+
+}
+.number{
+    margin-left: 7.7%;
+    border:1px solid black;
+
+}
+.pass{
+    margin-left:12.3%;
+    border:1px solid black;
+
+}
+.user{
+    margin-left:11.95%;
+    border:1px solid black;
+
+}
+.name{
+    margin-left: 15.2%;
+    border:1px solid black;
+
+}
+.email{
+    margin-left: 14.7%;
+    border:1px solid black;
+
+}
+
+
+
+
